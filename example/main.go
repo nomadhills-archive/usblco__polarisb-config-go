@@ -1,6 +1,6 @@
 package main
 
-import polarisb_config_go "polarisb-config-go"
+import polarisb_config_go "github.com/usblco/polarisb-config-go"
 
 func main() {
 	config := polarisb_config_go.AddPolarisbConfiguration("example/config.json")
