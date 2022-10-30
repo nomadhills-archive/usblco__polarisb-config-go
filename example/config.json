@@ -1,0 +1,8 @@
+{
+  "polarisbConfig": {
+    "interstellar": "example_admin:example_service:dfanidiofjanbsdfab@interstellar.polarisbase.com",
+    "values": {
+      "example_key1": "example_value1"
+    }
+  }
+}
